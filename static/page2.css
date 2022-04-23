@@ -1,0 +1,37 @@
+  .container{
+      height: 300px;
+      /* text-align: center; */
+      /* width: 80%; */
+    }
+    .container h1{
+      border-bottom: 5px solid black;
+    padding: 20px;
+margin: 10px;
+margin-top: 70px;
+  }
+ .first{
+     /* border: 2px red solid; */
+     /* padding: 120px; */
+     width: 75%;
+    margin: 10px;
+    max-width: fit-content;
+    /* background-color: red; */
+    /* background: center/cover no-repeat url("redd-9o8YdYGTT64-unsplash.jpg") ; */
+ }
+
+
+
+
+
+
+
+
+
+
+
+ .foot{
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-bottom: 0px;
+  }

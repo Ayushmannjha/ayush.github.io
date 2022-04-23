@@ -1,0 +1,33 @@
+.container{
+    margin-top: 100px;
+    text-align: justify;
+    margin-left: 50px;
+    margin-right: 50px;
+    
+}
+table,tr, td, th {
+    border: 1px solid black;
+}
+table{
+    border-collapse: collapse;
+}
+.sub{
+    width: 70%;
+}
+td{
+    padding: 10px;
+    font-size: 17px;
+}
+.link{
+    font-size: 18px;
+    text-decoration: underline;
+    padding: 19px;
+}
+td :hover{
+   color: black;
+    text-decoration: none;
+    
+}
+th{
+    padding: 10px;
+}

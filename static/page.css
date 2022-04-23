@@ -1,0 +1,54 @@
+ #introsection{
+    color: white;
+    display: grid;
+grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+    flex-direction: column;
+
+
+    align-items: center;
+    background: center/cover no-repeat url("../templets/redd-9o8YdYGTT64-unsplash.jpg") ;
+    height: 605px;
+    background-color: red;
+}
+.ppp{
+    display: block;
+    width: 80%;
+    text-align: center;
+    justify-content: center;
+    
+}
+.ppp a{
+    display: block;
+    width: 80%;
+    padding: 20px;
+    background-color: rgb(255, 255, 255);
+    justify-content: center;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    margin-left: auto;
+    border-radius: 10px;
+    border: 1px solid rgb(255, 255, 255);
+  }
+  
+  .ppp a:hover{
+    box-shadow: 3px 3px 8px rgb(59, 59, 59);
+    background-image: linear-gradient(to right, #fffb00 , rgb(121, 52, 95));
+     color: rgb(255, 255, 255);
+     transition: 0.25s;
+   
+}
+ .foot{
+   background-color: black;
+   color: white;
+   text-align: center;
+   margin-bottom: 0px;
+ }
+ i{
+   color: blue;
+   font-size: 25px;
+   font-weight: 900;
+ }
+ span{
+   font-weight: lighter;
+   font-family: monospace;
+ }
